@@ -1,0 +1,13 @@
+{
+    "prettier.tabWidth": 2,
+    "prettier.semi": false,
+    "prettier.singleQuote": true,
+    "prettier.trailingComma": "none",
+    "[typescript]": {
+        "editor.codeActionsOnSave": {
+            "source.fixAll.eslint":true,
+            "source.organizeImports": true
+        },
+        "editor.formatOnSave": true
+    }
+}
