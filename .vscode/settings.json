@@ -12,4 +12,5 @@
     },
     "typescript.format.insertSpaceAfterConstructor": true,
     "typescript.format.insertSpaceBeforeFunctionParenthesis": true,
+    "editor.tabSize": 2,
 }
