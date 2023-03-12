@@ -7,6 +7,7 @@ module.exports = {
   ],
   coverageDirectory: 'coverage',
   testEnvironment: 'jest-environment-node',
+  preset: 'ts-jest',
   transform: {
     '.+\\.ts$': 'ts-jest'
   }
